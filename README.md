@@ -35,7 +35,7 @@ Financial institutions need to identify risky transactions and understand custom
 ## 📊 Key Insights
 
 ### 🔍 Risk & Anomaly Insights
-![Risk Insights](1.png)
+![Risk Insights](2.png)
 
 - ~23.7% accounts flagged as suspicious  
 - Top 15% transactions identified as high-value withdrawals  
@@ -45,7 +45,7 @@ Financial institutions need to identify risky transactions and understand custom
 ---
 
 ### 👥 Customer Behavior Insights
-![Customer Insights](2.png)
+![Customer Insights](1.png)
 
 - ~60–70% accounts fall into low activity segment  
 - Top 25% users contribute majority of transaction volume  
